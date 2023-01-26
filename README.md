@@ -1,5 +1,5 @@
 # Real-World-Implementation-of-Docker-and-Zabbix-A-Case-Study
- 
+ ![example image](https://github.com/Awsnaser/repository/raw/branch/path/to/Architecture diagram.png)
 This exam is designed to test the student's understanding and hands-on experience with Docker and Zabbix. The exam is divided into four sections, each with a specific focus and objective. 
 
 ## Section 1: Docker

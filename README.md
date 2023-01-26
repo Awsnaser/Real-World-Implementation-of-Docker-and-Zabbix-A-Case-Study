@@ -1,7 +1,6 @@
 # Real-World-Implementation-of-Docker-and-Zabbix-A-Case-Study
-# Exam for Docker and Zabbix
-
-## Overview
+ 
+ ## Overview
 This exam is designed to test the student's understanding and hands-on experience with Docker and Zabbix. The exam is divided into four sections, each with a specific focus and objective. 
 
 ## Section 1: Docker
@@ -20,4 +19,4 @@ The fourth and final section of the exam will test the student's familiarity wit
 Each section is worth 10 points and the exam is graded out of 40 points total.
 
 ## Additional Information
-Be sure to read the instructions for each section carefully and ask the instructor if you have any questions. Good luck!
+Be sure to read the instructions. Good luck!

@@ -7,8 +7,8 @@ This exam is designed to test the student's understanding and hands-on experienc
 
 
  
-| ![Architecture diagram](https://github.com/Awsnaser/Real-World-Implementation-of-Docker-and-Zabbix-A-Case-Study/blob/d7d3579bfabd3f724689fd82556e8936a64dd419/Architecture%20diagram.png) |
-| **Figure 1:** Architecture diagram  |
+  ![Architecture diagram](https://github.com/Awsnaser/Real-World-Implementation-of-Docker-and-Zabbix-A-Case-Study/blob/d7d3579bfabd3f724689fd82556e8936a64dd419/Architecture%20diagram.png) |
+  **Figure 1:** Architecture diagram   
 
 </div>
 

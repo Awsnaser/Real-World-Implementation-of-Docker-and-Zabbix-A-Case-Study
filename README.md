@@ -28,8 +28,4 @@ The third section focuses on web server usage, requiring the student to show the
 ## Section 4: Zabbix Frontend
 The fourth and final section of the exam will test the student's familiarity with the Zabbix frontend, including basic host adding, PSK encryption usage, and template creation with new items and triggers. 
 
-## Grading
-Each section is worth 10 points and the exam is graded out of 40 points total.
-
-## Additional Information
-Be sure to read the instructions. Good luck!
+ 

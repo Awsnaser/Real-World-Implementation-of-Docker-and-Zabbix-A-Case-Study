@@ -1,6 +1,6 @@
 # Real-World-Implementation-of-Docker-and-Zabbix-A-Case-Study
 
-This exam is designed to test the student's understanding and hands-on experience with Docker and Zabbix. The exam is divided into four sections, each with a specific focus and objective. 
+This exam is designed to test the student's understanding and hands-on experience with Docker and Zabbix. The exam is divided into four sections, each with a specific focus and objective as shown in Figure 1 . 
 
  
 <div align="center">

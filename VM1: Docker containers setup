@@ -1,3 +1,4 @@
  # Zabbix Monitoring System using Docker
 
-This project describes the setup of a Docker stack with four containers: zabbix-server-mysql, zabbix-server-web, mysql-server, and zabbix-agent. The instructions include details on how to install Docker and docker-compose, as well as specific configurations for each container such as ports, hostnames, volumes, environment variables, and dependencies. The end goal is to have a functional Zabbix monitoring system, with the Zabbix server and web interface running in separate containers, connected to a MySQL database, and with a Zabbix agent monitoring the host system.
+\documentclass{article}
+\usepackage{lipsum}
